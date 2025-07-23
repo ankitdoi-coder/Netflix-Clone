@@ -1,0 +1,3 @@
+.netflix-sans-font-loaded {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}

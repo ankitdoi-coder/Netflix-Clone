@@ -12,8 +12,8 @@ A responsive Netflix homepage clone built using **HTML** and **CSS**, mimicking 
 
 
 ## Deployment
--GitHub Repo Link : https://github.com/ankitdoi-coder/Netflix-Clone.git
--Live Preview : https://akclonenetfllix.netlify.app/
+- GitHub Repo Link : https://github.com/ankitdoi-coder/Netflix-Clone.git
+- Live Preview : https://akclonenetfllix.netlify.app/
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -42,15 +42,15 @@ This website adapts perfectly to:
    git clone https://github.com/your-username/netflix-clone.git
 2. open index.html
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 - Ankit Doi
 - LinkedIn : https://www.linkedin.com/in/ankit-kumar-gurjar
 - GitHub : https://github.com/ankitdoi-coder.
 
-##📜 License
+## 📜 License
 This project is open-source and free to use for learning and portfolio purposes.
 
 
-##🌟 Don’t forget to leave a ⭐ if you liked the project!
+## 🌟 Don’t forget to leave a ⭐ if you liked the project!
 
    
